@@ -27,7 +27,7 @@ Run `sudo apt-get install libgmp3-dev`
 # Lambda-Calculus-Haskell
 
 
-# Main Code in the submission folder 
+# Main Code in the submission folder - LambdaParser.hs
 
 # BNF grammar:
 ## Long lambada BNF (playground):
