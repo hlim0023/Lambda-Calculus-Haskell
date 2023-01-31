@@ -1,4 +1,4 @@
-# 2022Assignment2
+# Haskell Lambda Calculus Parser
 
 ## Using the code bundle
 
